@@ -1,0 +1,41 @@
+{
+    "nombre": "Felipe Pineda",
+    "direccion": "San Jose, Ciudad Colon, Barrio La Carta",
+    "comida_preferida": "Pizza",
+    "Animales": {
+        "perro1": [
+            "Corcho",
+            "Raza mixta"
+        ],
+        "perro2": [
+            "Lola",
+            "Cocker Spaniel Ingles"
+        ],
+        "perro3": [
+            "Murci",
+            "Bulldog Frances"
+        ],
+        "perro4": [
+            "Moncho",
+            "Pastor Aleman"
+        ]
+    },
+    "informacion_complementarias": [
+        {
+            "detalles": [
+                {
+                    "cabello": "marron"
+                },
+                {
+                    "musica_preferida": "The 80s"
+                }
+            ]
+        }
+    ],
+    "edad": 24,
+    "metadata": {
+        "page": 1,
+        "total_pages": 1,
+        "keys": 10
+    }
+}
